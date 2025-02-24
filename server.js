@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(cors());
 
 // 📌 Route GET - Récupérer tous les films avec filtres
-app.get('/films', (req, res) => {
+app.get('/api/films', (req, res) => {
     const { origine, niveau, noteMin, noteMax } = req.query;
     let sql = 'SELECT * FROM movies WHERE 1=1';
     const params = [];
@@ -54,7 +54,7 @@ app.get('/films', (req, res) => {
 });
 
 // 📌 Route POST - Ajouter un nouveau film
-app.post('/films', (req, res) => {
+app.post('/api/films', (req, res) => {
     const { nom, dateDeSortie, realisateur, notePublic, note, compagnie, description, origine, lienImage } = req.body;
 
     // Vérifie que la date de sortie est une année valide (4 chiffres)
@@ -77,7 +77,7 @@ app.post('/films', (req, res) => {
 });
 
 // 📌 Route PUT - Modifier un film existant
-app.put('/films/:id', (req, res) => {
+app.put('/api/films/:id', (req, res) => {
     const { id } = req.params;
     const { nom, dateDeSortie, realisateur, notePublic, note, compagnie, description, origine, lienImage } = req.body;
 
@@ -104,7 +104,7 @@ app.put('/films/:id', (req, res) => {
 });
 
 // 📌 Route DELETE - Supprimer un film
-app.delete('/films/:id', (req, res) => {
+app.delete('/api/films/:id', (req, res) => {
     const { id } = req.params;
 
     db.run('DELETE FROM movies WHERE id = ?', [id], function (err) {
