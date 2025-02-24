@@ -1,0 +1,156 @@
+[
+    {
+        "nom": "À bout de souffle",
+        "dateDeSortie": "1960",
+        "realisateur": "Jean-Luc Godard",
+        "notePublic": 3.8,
+        "note": 5,
+        "compagnie": "Société Nouvelle de Cinématographie",
+        "description": "L'histoire d'un jeune criminel qui se cache à Paris et tombe amoureux d'une jeune américaine. Un classique de la Nouvelle Vague française.",
+        "origine": "France",
+        "lienImage": "img/aboudesouffle.webp"
+    },
+    {
+        "nom": "Les Quatre Cents Coups",
+        "dateDeSortie": "1959",
+        "realisateur": "François Truffaut",
+        "notePublic": 4.1,
+        "note": 4.5,
+        "compagnie": "Les Films du Carrosse",
+        "description": "Ce film semi-autobiographique raconte l'histoire d'un jeune garçon à Paris qui lutte contre les négligences des adultes et son passage à l'adolescence.",
+        "origine": "France",
+        "lienImage": "img/lesquatrecentscoups.webp"
+    },
+    {
+        "nom": "Le Fabuleux Destin d'Amélie Poulain",
+        "dateDeSortie": "2001",
+        "realisateur": "Jean-Pierre Jeunet",
+        "notePublic": 3.9,
+        "note": 4.5,
+        "compagnie": "Claudie Ossard Productions",
+        "description": "Une comédie romantique racontant l'histoire d'Amélie, une jeune femme qui décide de changer la vie des gens autour d'elle pour le mieux, tout en luttant avec sa propre isolement.",
+        "origine": "France",
+        "lienImage": "img/ameliepoulain.webp"
+    },
+    {
+        "nom": "La Grande Vadrouille",
+        "dateDeSortie": "1966",
+        "realisateur": "Gérard Oury",
+        "notePublic": 4.3,
+        "note": 3.8,
+        "compagnie": "Les Films Corona",
+        "description": "Pendant la Seconde Guerre mondiale, deux Français ordinaires se retrouvent impliqués dans une série d'aventures rocambolesques après avoir rencontré des aviateurs britanniques.",
+        "origine": "France",
+        "lienImage": "img/lagrandevadrouille.webp"
+    },
+    {
+        "nom": "La Haine",
+        "dateDeSortie": "1995",
+        "realisateur": "Mathieu Kassovitz",
+        "notePublic": 4.1,
+        "note": 4.6,
+        "compagnie": "Egg Pictures",
+        "description": "Le film suit 24 heures dans la vie de trois jeunes hommes d'une banlieue parisienne au lendemain d'une émeute, abordant les thèmes de l'amitié, de l'injustice et du désespoir social.",
+        "origine": "France",
+        "lienImage": "img/lahaine.jpg"
+    },
+    {
+        "nom": "Le Salaire de la peur",
+        "dateDeSortie": "1953",
+        "realisateur": "Henri-Georges Clouzot",
+        "notePublic": null,
+        "note": 4.2,
+        "compagnie": "Véra Films",
+        "description": "Dans un village d'Amérique du Sud, quatre hommes sont engagés pour transporter une cargaison dangereuse d'explosifs à travers la jungle, un périple à haut risque.",
+        "origine": "France",
+        "lienImage": "img/lesalairedelapeur.webp"
+    },
+    {
+        "nom": "Ad Astra",
+        "dateDeSortie": "2019",
+        "realisateur": "James Gray",
+        "notePublic": 4.1,
+        "note": 4.2,
+        "compagnie": "20th Century Fox",
+        "description": "Un astronaute entreprend une mission périlleuse pour retrouver son père disparu et découvrir un mystère qui menace la survie de la Terre.",
+        "origine": "France",
+        "lienImage": "img/ad_astra.jpg"
+    },
+    {
+        "nom": "Le Chant du Loup",
+        "dateDeSortie": "2019",
+        "realisateur": "Antonin Baudry",
+        "notePublic": 4.2,
+        "note": 4.3,
+        "compagnie": "Pathé",
+        "description": "Un jeune homme doté d'une ouïe exceptionnelle doit sauver son équipage à bord d'un sous-marin nucléaire français.",
+        "origine": "France",
+        "lienImage": "img/le_chant_du_loup.jpg"
+    },
+    {
+        "nom": "1917",
+        "dateDeSortie": "2019",
+        "realisateur": "Sam Mendes",
+        "notePublic": 4.2,
+        "note": 4.3,
+        "compagnie": "DreamWorks Pictures",
+        "description": "Pendant la Première Guerre mondiale, deux jeunes soldats britanniques doivent traverser le territoire ennemi pour délivrer un message crucial.",
+        "origine": "Angleterre",
+        "lienImage": "img/1917.jpg"
+    },
+    {
+        "nom": "Dunkerque",
+        "dateDeSortie": "2017",
+        "realisateur": "Christopher Nolan",
+        "notePublic": 4.1,
+        "note": 4.2,
+        "compagnie": "Warner Bros.",
+        "description": "Pendant la Seconde Guerre mondiale, des soldats alliés sont évacués de Dunkerque alors qu'ils sont encerclés par les forces allemandes.",
+        "origine": "Angleterre",
+        "lienImage": "img/Dunkerque.jpg"
+    },
+    {
+        "nom": "Les Misérables",
+        "dateDeSortie": "2012",
+        "realisateur": "Tom Hooper",
+        "notePublic": 4,
+        "note": 4.1,
+        "compagnie": "Working Title Films",
+        "description": "Adaptation musicale du roman de Victor Hugo, suivant les vies de plusieurs personnages dans la France du XIXe siècle.",
+        "origine": "Angleterre",
+        "lienImage": "img/les_miserables.jpg"
+    },
+    {
+        "nom": "The King's Speech",
+        "dateDeSortie": "2010",
+        "realisateur": "Tom Hooper",
+        "notePublic": 4.3,
+        "note": 4.4,
+        "compagnie": "See-Saw Films",
+        "description": "Le roi George VI lutte contre son bégaiement avec l'aide d'un thérapeute de la parole non conventionnel.",
+        "origine": "Angleterre",
+        "lienImage": "img/the_kings_speech.jpg"
+    },
+    {
+        "nom": "Green Street 3: Never Back Down",
+        "dateDeSortie": "2013",
+        "realisateur": "James Nunn",
+        "notePublic": 3.7,
+        "note": 3.8,
+        "compagnie": "Universal Pictures",
+        "description": "Un ancien hooligan revient à Londres pour venger la mort de son frère en participant à des combats de rue.",
+        "origine": "Angleterre",
+        "lienImage": "img/green_street_3.jpg"
+    },
+    {
+        "nom": "Skyfall",
+        "dateDeSortie": "2012",
+        "realisateur": "Sam Mendes",
+        "notePublic": 4.1,
+        "note": 4.2,
+        "compagnie": "Eon Productions",
+        "description": "James Bond enquête sur une attaque contre le MI6, qui le mène à un ennemi du passé.",
+        "origine": "Angleterre",
+        "lienImage": "img/Skyfall.jpg"
+    }
+]
