@@ -1,7 +1,7 @@
 const express = require('express');
 const db = require('./db'); // Connexion à la base de données SQLite
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 80;
 const cors = require('cors');
 
 // 📌 Middleware pour parser le JSON

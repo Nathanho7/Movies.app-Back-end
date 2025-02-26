@@ -3,23 +3,33 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@azure/msal-node": "^3.2.3",
     "@google/generative-ai": "^0.21.0",
     "@huggingface/inference": "^3.3.5",
     "axios": "^1.7.9",
+    "better-sqlite3": "^11.8.1",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "openai": "^4.85.1",
+    "openai": "^4.85.4",
     "sqlite3": "^5.1.7",
     "yargs": "^17.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathanho7/Movies.app-Back-end.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nathanho7/Movies.app-Back-end/issues"
+  },
+  "homepage": "https://github.com/Nathanho7/Movies.app-Back-end#readme",
+  "description": ""
 }
